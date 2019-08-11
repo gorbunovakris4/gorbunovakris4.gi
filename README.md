@@ -7,7 +7,7 @@ project version 1.0.0
 ## About porject
 Project was made in aducational cause. Generally it is a form with fields validated using Regular expressions.
 
-##Technics
+## Technics
 Used technics: html5 + css, GIT
 
 ## How to use
