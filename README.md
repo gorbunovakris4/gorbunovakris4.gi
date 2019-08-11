@@ -2,7 +2,7 @@
 
 ## Version
 
-project version 1.0.0
+project version 1.0.3
 
 ## About porject
 Project was made in aducational cause. Generally it is a form with fields validated using Regular expressions.
